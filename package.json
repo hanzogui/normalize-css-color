@@ -1,6 +1,6 @@
 {
   "name": "@hanzogui/normalize-css-color",
-  "version": "5.0.0",
+  "version": "7.0.0",
   "source": "src/index.ts",
   "files": [
     "src",
@@ -39,6 +39,6 @@
     "@react-native/normalize-color": "^2.1.0"
   },
   "devDependencies": {
-    "@hanzogui/build": "^2.0.0"
+    "@hanzogui/build": "^7.0.0"
   }
 }
